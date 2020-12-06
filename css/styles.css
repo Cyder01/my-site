@@ -1,0 +1,114 @@
+/******************************TAGS*******************************/
+body {
+  margin: 0;
+text-align: center;
+font-family: sans-serif;
+}
+
+h1 {
+margin: 50px auto 0 auto;
+font-size: 5.625rem;
+font-family: 'Dancing Script', cursive;
+color: #66BFBF;
+
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #66BFBF;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+p {
+  font-family: 'Merriweather', serif;
+}
+a {
+  color: #66BFBF;
+}
+
+/******************************CLASSES*******************************/
+.cyder {
+
+}
+
+.top-container {
+  background-color: #e8ffff;
+position: relative;
+padding-top: 100px;
+}
+
+.middle-container {
+}
+.skills-heading {
+  padding-bottom: 10px;
+}
+.skill-1 {
+  padding-bottom: 30px;
+
+}
+.html {
+  margin: 0;
+}
+.css {
+  margin: 0;
+}
+.js {
+  margin: 0;
+}
+.skill-2 {
+padding-bottom: 30px;
+}
+.skill-3 {
+  padding-bottom: 30px;
+}
+.bottom-container {
+}
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+  }
+
+.mountain {
+    width: 1000px;
+  }
+
+.computer-pic {
+  float: left;
+  width: 30%;
+}
+
+.guitar {
+  float: right;
+  width: 30%;
+  padding-left: 30px;
+}
+.vader {
+  float: left;
+  width: 30%;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+text-align: left;
+}
+
+
+
+/******************************ID'S*******************************/
+
+#programmer {
+  font-weight: normal;
+}
