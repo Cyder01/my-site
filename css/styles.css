@@ -3,6 +3,7 @@ body {
   margin: 0;
 text-align: center;
 font-family: sans-serif;
+background-color: #f6f5f1;
 }
 
 h1 {
@@ -45,10 +46,7 @@ padding-top: 100px;
 .skills-heading {
   padding-bottom: 10px;
 }
-.skill-1 {
-  padding-bottom: 30px;
 
-}
 .html {
   margin: 0;
 }
@@ -58,11 +56,17 @@ padding-top: 100px;
 .js {
   margin: 0;
 }
+.skill-1 {
+  padding-bottom: 30px;
+}
 .skill-2 {
 padding-bottom: 30px;
 }
 .skill-3 {
   padding-bottom: 30px;
+}
+.h3-skill-title {
+  text-align: right;
 }
 .bottom-container {
 }
@@ -93,7 +97,7 @@ padding-bottom: 30px;
 .guitar {
   float: right;
   width: 30%;
-  padding-left: 30px;
+
 }
 .vader {
   float: left;
@@ -101,7 +105,7 @@ padding-bottom: 30px;
 }
 .skill-row {
   width: 50%;
-  margin: 100px auto 100px auto;
+  margin: 140px auto 140px auto;
 text-align: left;
 }
 
